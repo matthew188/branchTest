@@ -1,2 +1,3 @@
 first line;
 ---Ares--- br1 ------branch --- commit;
+---Bres----per2----branch--->>origin,br1;
